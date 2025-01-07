@@ -1,4 +1,4 @@
-# Login & Registration Form with MERN stack
+# Secure User authentication with MERN stack
 
 ## 👋 Introduction
 
